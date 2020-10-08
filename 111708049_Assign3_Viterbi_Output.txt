@@ -1,0 +1,10 @@
+आज_N_NN होगा_V_VM जबरदस्त_JJ मुकाबला_N_NN क्रिकेट_N_NN का_PSP !_SENT
+सरकार_N_NN हमारी_PRP जरूरतों_N_NN को_PSP पूरा_N_NN करे_V_VM ।_SENT
+इस_DM_DMD नीति_N_NN के_PSP बारे_N_NN में_PSP कुछ_QT_QTF भी_RP_RPD सही_N_NN नहीं_RP_NEG है_V_VAUX ।_SENT
+आपने_PRP क्या_PRQ उस_PRP जगह_N_NN पर_PSP जाने_V_VM की_PSP कोशिश_N_NN की_PSP थी_N_NN जो_PRP मैंने_PRP आपको_PRP बताया_V_VM था_V_VAUX ?_SENT
+कई_QT_QTF दशक_N_NN पहले_IN यहां_N_NN एक_QT_QTC बड़ा_JJ बरगद_N_NN का_PSP पेड़_N_NN हुआ_V_VM करता_V_VM था_V_VAUX ।_SENT
+उन्होंने_N_NN कहा_V_VM -_RD_SYM भारत_N_NNP में_PSP आपका_PRP स्वागत_N_NN है_V_VM !_SENT
+दिन_N_NN के_PSP अंत_N_NN तक_PSP हम_PRP कितनी_QTF दूरी_N_NN तय_N_NN कर_V_VM सकते_V_VAUX हैं_V_VAUX ?_SENT
+राजा_N_NN और_CCD रानी_N_NN बहुत_PSP घमंडी_V_VM थे_V_VAUX |_SENT
+मेरे_PR_PRP पास_N_NST फिल्म_N_NN को_PSP निर्देशित_N_NN करने_V_VM के_PSP लिए_PSP पैसे_N_NN नहीं_RP_NEG हैं_V_VAUX |_SENT
+नदी_N_NN के_PSP पास_N_NST एक_QT_QTC झोपड़ी_N_NN है_V_VB इसलिए_CC हम_PRP वहां_N_NN डेरा_N_NN डाल_V_VM सकते_V_VAUX हैं_V_VAUX !_SENT
